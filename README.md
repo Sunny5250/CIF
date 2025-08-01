@@ -41,7 +41,7 @@ pip install pointnet2_ops_lib/
 
 ### 1. Checkpoints
 
-Download pre-trained models [DINO](https://dl.fbaipublicfiles.com/dino/dino_deitbase8_pretrain/dino_deitbase8_pretrain.pth) and [Point-MAE](https://drive.google.com/file/d/1-wlRIz0GM8o6BuPTJz4kTt6c_z1Gh6LX/view?usp=sharing), then put them in `checkpoints` folder.
+Download pre-trained models [DINO](https://dl.fbaipublicfiles.com/dino/dino_vitbase8_pretrain/dino_vitbase8_pretrain.pth) and [Point-MAE](https://drive.google.com/file/d/1-wlRIz0GM8o6BuPTJz4kTt6c_z1Gh6LX/view?usp=sharing), then put them in `checkpoints` folder.
 
 ### 2. Data preprocessing
 
