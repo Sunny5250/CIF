@@ -12,7 +12,7 @@ We use [MVTec 3D-AD](https://www.mvtec.com/company/research/datasets/mvtec-3d-ad
 We implement this repo with the following environment:
 - Python 3.8.11
 - Pytorch 1.13.1
-- CUDA 11.3
+- CUDA 11.7
 
 To run experiments, first clone the repository and install the dependency packages:
 
