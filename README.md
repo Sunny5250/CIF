@@ -1,6 +1,9 @@
-# Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory
+# CIF
 
-Offical implementation of CIF (AAAI 2026).
+Offical implementation of Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory (AAAI 2026).
+
+Welcome to follow our papers [**"Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory"**](https://arxiv.org/abs/2511.05966).
+
 
 ## News
 
@@ -72,4 +75,18 @@ Run the following command to evaluate the models on all categories of MVTec 3D-A
 
 ```bash
 ./scripts/eval.sh
+```
+
+
+# BibTex Citation
+
+If you find this paper and repository useful, please cite our paper:
+
+```
+@article{lin2025commonality,
+  title={Commonality in Few: Few-Shot Multimodal Anomaly Detection via Hypergraph-Enhanced Memory},
+  author={Lin, Yuxuan and Yan, Hanjing and Tong, Xuan and Chang, Yang and Wang, Huanzhen and Zhou, Ziheng and Gao, Shuyong and Wang, Yan and Zhang, Wenqiang},
+  journal={arXiv preprint arXiv:2511.05966},
+  year={2025}
+}
 ```
